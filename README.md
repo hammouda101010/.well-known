@@ -1,2 +1,2 @@
 # .well-known
-BlueSky Handle
+there is nothing here. GET OUT!!!
